@@ -4,6 +4,7 @@ spring:
       server:
         git:
           uri: https://github.com/TonyYGL/config-server
+          search-paths: config
 
 server:
   port: 8888
