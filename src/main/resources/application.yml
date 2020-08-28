@@ -3,7 +3,7 @@ spring:
     config:
       server:
         git:
-          uri:
+          uri: https://github.com/TonyYGL/config-server
 
 server:
   port: 8888
